@@ -303,6 +303,7 @@
   .item{
     width: 92%;
     grid-template-columns: repeat(1,1fr);
+    grid-row-gap: 4rem;
   }
   .svg1{
     width: 55%;
