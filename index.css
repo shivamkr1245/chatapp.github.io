@@ -33,7 +33,7 @@
   border-radius: 18rem 18rem 0 0;
 }
 .item{
-  width: 58%;
+  width: 60%;
   height: auto;
   display: grid;
   grid-template-columns: repeat(2,1fr);
@@ -208,7 +208,7 @@
   color: hsl(270, 7%, 64%);
 }
 .mobi{
-  width: 70%;
+  width: 75%;
   height: 100%;
   border-radius: 2rem;
   display: grid;
